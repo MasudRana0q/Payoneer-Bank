@@ -1,0 +1,20 @@
+
+
+
+body{
+    padding: 5% 20%;
+}
+#loginContain{
+    
+}
+#loginForm{
+    margin-top: 10%;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#trx{
+    display: none;
+}
+
+
