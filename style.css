@@ -15,6 +15,29 @@ body{
 }
 #trx{
     display: none;
+    margin-top: 50px;
 }
-
-
+#trx .text-center{
+    margin-bottom: 50px;
+}
+.deposit{
+    background-color: cornflowerblue;
+}
+.withdraw{
+    background-color: aquamarine;
+}
+.balance{
+    background-color: darkgreen;
+}
+.common{
+    border-radius: 10px;
+    padding: 15px;
+}
+#depositAndWithdrawBtnSection{
+    margin-top: 60px;
+}
+.common2{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
